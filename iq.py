@@ -34,7 +34,7 @@ else:
 ### HEADERS ###
 
 def banner():
-    print("""   ___                   \n  / _ \_______             ® \n / ___/ __/ -_) Multi Brute  ┌──────────────────────────────┐\n/_/  /_/__\__/(_) Force 1.0  │  Script By AyoubXD  │\n       /  ^ \/ / // /  ^ \   │   •• Github.com/AYOUB143L  ••   │\n      /_/_/_/_/\_,_/_/_/_/   └──────────────────────────────┘""")
+    print("""   ___                   \n  / _ \_______             ® \n / ___/ __/ -_) Multi Brute  ┌──────────────────────────────┐\n/_/  /_/__\__/(_) Force 1.0  │  Script By AyoubXD        │\n       /  ^ \/ / // /  ^ \   │ •• Github.com/AYOUB143L  ••  │\n      /_/_/_/_/\_,_/_/_/_/   └──────────────────────────────┘""")
 
 host="https://mbasic.facebook.com"
 ips=None
